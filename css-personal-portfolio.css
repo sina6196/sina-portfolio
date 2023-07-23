@@ -116,7 +116,7 @@ h2 {
   }
   .code {
     color: black;
-    transition: color 0.3s ease-out;
+    transition: color 0.4s ease-out;
   }
   
   .project:hover .code {
