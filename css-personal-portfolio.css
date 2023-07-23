@@ -42,7 +42,7 @@ a {
   }
 #about {
   width: 100%;
-  background-color: darkgrey;
+  background-color: gray;
   display: flex;
   flex-direction: column;
   position: relative;
